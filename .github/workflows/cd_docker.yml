@@ -3,7 +3,7 @@ name: cd_docker
 on:
   push:
     branches:
-      - '*'
+      - 'main'
 
 jobs:
   build:
